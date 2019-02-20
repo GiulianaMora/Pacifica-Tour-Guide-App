@@ -1,0 +1,176 @@
+<resources>
+    <string name="app_name">Pacifica Tour Guide</string>
+
+    <!-- Category name for beaches [CHAR LIMIT=20] -->
+    <string name="category_beaches">Beaches</string>
+
+    <!-- Category name for parks and trails [CHAR LIMIT=20] -->
+    <string name="category_parks_trails">Parks and Trails</string>
+
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for rad spots [CHAR LIMIT=20] -->
+    <string name="category_rad_spots">Rad Spots</string>
+
+    <string name="rockaway_beach">Rockaway Beach</string>
+
+    <string name="rockaway_beach_address">Rockaway Beach Ave.
+                \nPacifica, CA 94044</string>
+
+    <string name="linda_mar_beach">Pacifica State Beach (Linda Mar Beach)</string>
+
+    <string name="linda_mar_beach_address">5200 Coast Hwy
+                \nPacifica, CA 94044</string>
+
+    <string name="sharp_park_beach">Sharp Park Beach</string>
+
+    <string name="sharp_park_beach_address">Montecito Ave and Beach Blvd
+                \nPacifica, CA 94044</string>
+
+    <string name="esplanade_dog_beach">Esplanade Dog Beach</string>
+
+    <string name="esplanade_dog_beach_address">Esplanade Ave and W Manor Dr
+                \nPacifica, CA 94044</string>
+
+    <string name="san_pedro_valley_park">San Pedro Valley Park</string>
+
+    <string name="san_pedro_valley_park_address">600 Oddstad Blvd.
+                \nPacifica, CA 94044
+                \n(650) 355-8289</string>
+
+    <string name="frontierland_park">Frontierland Park</string>
+
+    <string name="frontierland_park_address">Yosemite Drive
+                \nPacifica, CA 94044
+                \n(650) 738-7381</string>
+
+    <string name="pacifica_skate_park">Pacifica Skate Park</string>
+
+    <string name="pacifica_skate_park_address">540 Crespi Drive
+                \nPacifica, CA 94044
+                \n(650) 738-7381</string>
+
+    <string name="devils_slide_trail">Devil\'s Slide Trail</string>
+
+    <string name="devils_slide_trail_address">5981 California Coastal Trail
+                \nPacifica, CA 94044
+                \n(650) 355-8289</string>
+
+    <string name="milagra_ridge">Milagra Ridge</string>
+
+    <string name="milagra_ridge_address">641 Sharp Park Road
+                \nPacifica, CA 94044
+                \n(415)561-4323</string>
+
+    <string name="mori_point">Mori Point</string>
+
+    <string name="mori_point_address">Mori Point Road
+                \nPacifica, CA 94044
+                \n(415)561-4323</string>
+
+    <string name="sanchez_art_center">Sanchez Art Center</string>
+
+    <string name="sanchez_art_center_address">1220 Linda Mar Blvd
+                \nPacifica, CA 94044
+                \n(650) 355-1894</string>
+
+    <string name="pacifica_spindrift_players">Pacifica Spindrift Players</string>
+
+    <string name="pacifica_spindrift_players_address">1050 Crespi Dr
+                \nPacifica, CA 94044
+                \n(650) 359-8002</string>
+
+    <string name="floreys_book_co">Florey\'s Book Co.</string>
+
+    <string name="floreys_book_co_address">2120 Palmetto Ave
+                \nPacifica, CA 94044
+                \n(650) 355-8811</string>
+
+    <string name="mazza_castle">Mazza (Sam\'s) Castle</string>
+
+    <string name="mazza_castle_address">900 Mirador Terrace
+                \nPacifica, CA 94044
+                \n(650) 355-0272</string>
+
+    <string name="sharp_park_golf_course">Sharp Park Golf Course</string>
+
+    <string name="sharp_park_golf_course_address">2600 Francisco Blvd
+                \nPacifica, CA 94044
+                \n(650) 359-3380</string>
+
+    <string name="pacifica_coastside_museum">Pacifica Coastside Museum</string>
+
+    <string name="pacifica_coastside_museum_address">1850 Francisco Blvd
+                \nPacifica, CA 94044
+                \n(650) 359-5462</string>
+
+    <string name="pacific_coast_fog_festival">Pacific Coast Fog Festival</string>
+
+    <string name="pacific_coast_fog_festival_address">Palmetto Ave
+                \nPacifica, CA 94044
+                \n(415) 430-5521</string>
+
+    <string name="mazzettis_bakery">Mazzetti\'s) Bakery</string>
+
+    <string name="mazzettis_bakery_address">101 Manor Drive
+                \nPacifica, CA 94044
+                \n(650) 355-1007</string>
+
+    <string name="colombos_deli">Colombo\'s Deli</string>
+
+    <string name="colombos_deli_address">484 Manor Plaza
+                \nPacifica, Ca 94044
+                \n650-355-5023</string>
+
+    <string name="nicks_restaurant">Nick\'s Restaurant</string>
+
+    <string name="nicks_restaurant_address">100 Rockaway Beach Ave
+                \nPacifica, CA 94044
+                \n(650) 359-3900</string>
+
+    <string name="high_tide_cafe">High Tide Cafe</string>
+
+    <string name="high_tide_cafe_address">5500 Coast Hwy
+                \nPacifica, CA 94044
+                \n(650) 735-5871</string>
+
+    <string name="camelot_fishnchips">Camelot Fish \'n Chips</string>
+
+    <string name="camelot_fishnchips_address">70 W Manor Dr
+                \nPacifica, CA 94044
+                \n(650) 355-1555</string>
+
+    <string name="puerto_27">Puerto 27 (Peruvian Kitchen and Pisco Bar)</string>
+
+    <string name="puerto_27_address">525 Crespi Dr
+                \nPacifica, CA 94044
+                \n(650) 733-7343</string>
+
+    <string name="sushi_koko">Sushi Koko</string>
+
+    <string name="sushi_koko_address">330 Palmetto Ave
+                \nSuite A
+                \nPacifica, CA 94044
+                \n(650) 355-2670</string>
+
+    <string name="tams">Tam\'s Cuisine of China</string>
+
+    <string name="tams_address">494 Manor Plz
+                \nPacifica, CA 94044
+                \n(650) 359-7575</string>
+
+    <string name="guerreros_taqueria">Guerrero\'s Taqueria</string>
+
+    <string name="guerreros_taqueria_address">164 Reina Del Mar Ave
+                \nPacifica, CA 94044
+                \n(650) 355-2833</string>
+
+    <string name="el_grano_de_oro">El Grano de Oro</string>
+
+    <string name="el_grano_de_oro_address">1710 Francisco Blvd
+                \nPacifica, CA 94044
+                \n(650) 355-8417</string>
+
+
+</resources>
