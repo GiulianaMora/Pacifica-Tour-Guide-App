@@ -1,6 +1,11 @@
 # Pacifica-Tour-Guide-App
 Sixth Udacity Project (Android Basics: Multi-Screen Apps) - Tour Guide App
 
+
+## Description
+This is a tour guide app of Pacifica, California. It contains a list of beaches, dining, and fun to do. It also includes some useful contact information for travelers.
+
+
 ![alt text](https://user-images.githubusercontent.com/36802522/53211058-cbdc1000-35f4-11e9-9175-f4cb78af734e.png)
 
 ![alt text](https://user-images.githubusercontent.com/36802522/53211122-13fb3280-35f5-11e9-9b27-2a330b608d24.png)
